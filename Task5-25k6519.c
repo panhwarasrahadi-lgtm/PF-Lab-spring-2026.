@@ -1,4 +1,3 @@
-//5. Temperature Monitoring System (While Loop – Dynamic Input Handling) A weather station records temperature readings. The program should continuously accept temperature values until the user enters -999 (sentinel value). Use a while loop to calculate the average temperature of all valid inputs.
 #include <stdio.h>
 
 int main() {
@@ -27,4 +26,5 @@ int main() {
     }
 
     return 0;
+
 }
