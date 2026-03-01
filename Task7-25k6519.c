@@ -1,9 +1,3 @@
-//7. Menu-Driven Calculator (Do-While Loop – Exit Controlled Loop)
-// Design a simple calculator that shows a menu:
-// 1.	Addition
-// 2.	Subtraction
-// 3.	Exit
-// The program should continue to display the menu after each operation until the user chooses Exit. Use a do-while loop to implement this behaviour
 #include <stdio.h>
 int main() {
     int choice;
@@ -38,4 +32,5 @@ int main() {
     } while (choice != 3);
 
     return 0;
+
 }
