@@ -1,4 +1,3 @@
-//4. Sum of First N Natural Numbers (For Loop) A user enters a number N. Write a C program that uses a for loop to calculate and display the sum of the first N natural numbers.
 #include <stdio.h>
 
 int main() {
@@ -13,4 +12,5 @@ int main() {
 
     printf("Sum of first %d natural numbers is: %d\n", n, sum);
     return 0;
+
 }
