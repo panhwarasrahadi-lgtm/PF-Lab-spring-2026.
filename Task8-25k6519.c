@@ -1,4 +1,3 @@
-//8. Number Guessing Game (While Loop – Control Flow Management) Create a number guessing game where the correct number is 7. The user keeps entering guesses until they guess the correct number. Use a while loop and display appropriate messages ("Too High", "Too Low", "Correct!").
 #include <stdio.h>
 
 int main() {
@@ -21,4 +20,5 @@ int main() {
     }
 
     return 0;
+
 }
