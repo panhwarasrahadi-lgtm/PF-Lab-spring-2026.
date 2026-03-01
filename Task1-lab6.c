@@ -1,4 +1,3 @@
-//1. Student Attendance Counter (For Loop – Known Iterations) A teacher wants to record attendance for 30 students in a class. Write a C program that uses a for loop to input attendance status (1 = Present, 0 = Absent) for each student and calculate the total number of students present.
 #include <stdio.h>
 
 int main () {
@@ -19,4 +18,5 @@ int main () {
     printf("Total number of students present: %d\n", totalPresent);
 
     return 0;
+
 }
