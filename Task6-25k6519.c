@@ -1,4 +1,3 @@
-//6. Multiplication Table Generator (For Loop – Controlled Iterations) Write a C program that takes a number from the user and prints its multiplication table up to 10 using a for loop.
 #include <stdio.h>
 
 int main() {
@@ -13,4 +12,5 @@ int main() {
     }
 
     return 0;
+
 }
